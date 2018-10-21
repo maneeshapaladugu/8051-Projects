@@ -1,0 +1,5 @@
+"delay_1ms.obj",
+"i2c.obj",
+"lcd.obj",
+"main.obj" 
+TO "eeprom" 
